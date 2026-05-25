@@ -8,11 +8,12 @@
 
 ---
 
-I did not start with a roadmap. I started with curiosity.
+I am a Software Engineer at Capgemini, specializing in backend engineering 
+and distributed systems. I build production-grade microservices using Java, 
+Spring Boot, and Spring Cloud, and I integrate Generative AI into real-world 
+applications using LangChain4j and Azure OpenAI.
 
-When I wrote my first Spring Boot service and watched two microservices talk to each other for the first time, something clicked. That feeling of building something that actually *works* — that is what kept me going.
-
-Today I am a Software Engineer at **Capgemini**, working full-time on distributed systems and backend architecture. But the journey from a curious student to here was built one project at a time.
+My focus is simple — build things that scale, perform, and solve real problems.
 
 ---
 
